@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+<node pkg="our_model" type="our_model" 
+    name="our_model" output="screen">
+    <rosparam command="load"
+        file="$(find our_model)/config/config.yaml"/>
+</node>
+
+
+</launch>

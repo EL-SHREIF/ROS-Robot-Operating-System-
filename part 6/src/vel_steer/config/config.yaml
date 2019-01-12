@@ -1,0 +1,3 @@
+topic: '/gazebo/link_states'
+queue_size: 10
+

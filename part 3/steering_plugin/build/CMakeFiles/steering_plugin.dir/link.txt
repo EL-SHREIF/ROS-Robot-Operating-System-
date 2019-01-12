@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -std=c++11  -shared -Wl,-soname,libsteering_plugin.so -o libsteering_plugin.so CMakeFiles/steering_plugin.dir/steering_plugin.cc.o  -L/usr/lib/x86_64-linux-gnu/gazebo-7/plugins 

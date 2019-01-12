@@ -1,0 +1,8 @@
+prefix=/home/shiko/catkin_ws/install
+
+Name: ackermann_01
+Description: Description of ackermann_01
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/shiko/catkin_ws/install/lib 
+Requires: ackermann_msgs geometry_msgs roscpp std_msgs

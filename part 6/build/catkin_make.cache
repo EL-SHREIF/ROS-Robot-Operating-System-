@@ -1,0 +1,2 @@
+ackermann_01:ackermann_msgs:our_model:vel_steer
+-DCATKIN_DEVEL_PREFIX=/home/shiko/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/shiko/catkin_ws/install -G Unix Makefiles

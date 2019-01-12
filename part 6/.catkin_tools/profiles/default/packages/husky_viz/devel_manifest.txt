@@ -1,0 +1,4 @@
+husky/husky_viz
+/home/shiko/catkin_ws/devel/.private/husky_viz/lib/pkgconfig/husky_viz.pc /home/shiko/catkin_ws/devel/lib/pkgconfig/husky_viz.pc
+/home/shiko/catkin_ws/devel/.private/husky_viz/share/husky_viz/cmake/husky_vizConfig.cmake /home/shiko/catkin_ws/devel/share/husky_viz/cmake/husky_vizConfig.cmake
+/home/shiko/catkin_ws/devel/.private/husky_viz/share/husky_viz/cmake/husky_vizConfig-version.cmake /home/shiko/catkin_ws/devel/share/husky_viz/cmake/husky_vizConfig-version.cmake

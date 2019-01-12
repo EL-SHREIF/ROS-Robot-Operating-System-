@@ -1,0 +1,8 @@
+prefix=/home/shiko/catkin_ws/devel
+
+Name: our_model
+Description: Description of our_model
+Version: 0.0.0
+Cflags: -I/home/shiko/catkin_ws/src/our_model/include
+Libs: -L/home/shiko/catkin_ws/devel/lib 
+Requires: ackermann_msgs roscpp std_msgs

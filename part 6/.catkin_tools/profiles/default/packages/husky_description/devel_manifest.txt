@@ -1,0 +1,4 @@
+husky/husky_description
+/home/shiko/catkin_ws/devel/.private/husky_description/lib/pkgconfig/husky_description.pc /home/shiko/catkin_ws/devel/lib/pkgconfig/husky_description.pc
+/home/shiko/catkin_ws/devel/.private/husky_description/share/husky_description/cmake/husky_descriptionConfig.cmake /home/shiko/catkin_ws/devel/share/husky_description/cmake/husky_descriptionConfig.cmake
+/home/shiko/catkin_ws/devel/.private/husky_description/share/husky_description/cmake/husky_descriptionConfig-version.cmake /home/shiko/catkin_ws/devel/share/husky_description/cmake/husky_descriptionConfig-version.cmake

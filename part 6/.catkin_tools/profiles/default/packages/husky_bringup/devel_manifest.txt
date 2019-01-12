@@ -1,0 +1,5 @@
+husky/husky_bringup
+/home/shiko/catkin_ws/devel/.private/husky_bringup/etc/catkin/profile.d/50.husky_find_mag_config.sh /home/shiko/catkin_ws/devel/etc/catkin/profile.d/50.husky_find_mag_config.sh
+/home/shiko/catkin_ws/devel/.private/husky_bringup/lib/pkgconfig/husky_bringup.pc /home/shiko/catkin_ws/devel/lib/pkgconfig/husky_bringup.pc
+/home/shiko/catkin_ws/devel/.private/husky_bringup/share/husky_bringup/cmake/husky_bringupConfig-version.cmake /home/shiko/catkin_ws/devel/share/husky_bringup/cmake/husky_bringupConfig-version.cmake
+/home/shiko/catkin_ws/devel/.private/husky_bringup/share/husky_bringup/cmake/husky_bringupConfig.cmake /home/shiko/catkin_ws/devel/share/husky_bringup/cmake/husky_bringupConfig.cmake

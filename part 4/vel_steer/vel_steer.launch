@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+<node pkg="vel_steer" type="vel_steer" 
+    name="vel_steer" output="screen">
+    <rosparam command="load"
+        file="$(find vel_steer)/config/config.yaml"/>
+</node>
+
+
+</launch>

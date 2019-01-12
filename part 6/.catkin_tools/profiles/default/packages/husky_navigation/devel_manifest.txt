@@ -1,0 +1,4 @@
+husky/husky_navigation
+/home/shiko/catkin_ws/devel/.private/husky_navigation/lib/pkgconfig/husky_navigation.pc /home/shiko/catkin_ws/devel/lib/pkgconfig/husky_navigation.pc
+/home/shiko/catkin_ws/devel/.private/husky_navigation/share/husky_navigation/cmake/husky_navigationConfig-version.cmake /home/shiko/catkin_ws/devel/share/husky_navigation/cmake/husky_navigationConfig-version.cmake
+/home/shiko/catkin_ws/devel/.private/husky_navigation/share/husky_navigation/cmake/husky_navigationConfig.cmake /home/shiko/catkin_ws/devel/share/husky_navigation/cmake/husky_navigationConfig.cmake

@@ -1,0 +1,8 @@
+prefix=/home/shiko/catkin_ws/devel
+
+Name: vel_steer
+Description: Description of vel_steer
+Version: 0.0.0
+Cflags: -I/home/shiko/catkin_ws/src/vel_steer/include
+Libs: -L/home/shiko/catkin_ws/devel/lib 
+Requires: ackermann_msgs roscpp std_msgs
