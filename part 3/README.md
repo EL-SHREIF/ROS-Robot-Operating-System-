@@ -1,11 +1,19 @@
-# ROS (Robot-Operating-System)
+# ROS Script
+* **roscore**
+* **catkin build (package name)** 
+* **echo "source ~/mybot_ws/devel/setup.bash" >> ~/.bashrc*
+* **source ~/.bashrc**
+* **roslaunch mybot_gazebo mybot_world.launch**
+* **rostopic echo /navsat/fix**
+* **rostopic echo /navsat/vel** 
+* **rostopic echo /imu/data**
+==============================================================
+**rostopic pub /cmd_vel geometry_msgs/Twist "linear:
+  x: 0.0
+  y: 0.0
+  z: 0.0
+angular:
+  x: 0.0
+  y: 0.0
+  z: 0.0" **
 
-This repo contains some scripts and codes written in C++ for Autonomous Car sensors like gps and IMU and Encoders and some other examples in ROS
-
-* **Part 1:** Simple task on Ros for make Listner and speaker 
-* **Part 2:** example of simple ROS package 
-* **Part 3:** Simple code for GPS on Husky robot
-* **Part 4:** AckermanModel for encoder in a car
-* **Part 5:** Simple code for encoder readings 
-* **Part 6:** Building Matlap model in ROS
-* **Part 7:** Simple Code from Zurich course
